@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Julien Ravilly, actually student at the University Institute of Technology in La Rochelle!
+I'm Julien Ravilly, actually student in Computer Science at the University Institute of Technology in La Rochelle!
 
 ## Known languages 💻
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
