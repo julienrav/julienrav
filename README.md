@@ -1,5 +1,9 @@
-## Hi there 👋
-I'm Julien Ravilly, actually student in Computer Science at the University Institute of Technology in La Rochelle!
+## Hey GitHub community! 👋
+My name is Julien Ravilly, and I'm actually student in Computer Science at the University Institute of Technology in La Rochelle!
+
+***Here's some infos about me:***  
+- 🥳 Birthday: September 3rd, 2005 (19 yo)  
+- 📌 Location: La Rochelle & Vannes (France)
 
 ## Known languages 💻
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -12,6 +16,9 @@ I'm Julien Ravilly, actually student in Computer Science at the University Insti
 
 ## Links 🔗
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/julienravilly)
+
+## Contact me 💭
+You can reach me by sending messages on my social medias or by mail @ julien.ravilly@free.fr.
 
 <!--
 **L1nju/L1nju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
