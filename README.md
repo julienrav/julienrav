@@ -23,7 +23,7 @@ I am Julien, and welcome on my GitHub page! 👨‍💻
 <br/>
 
 ### Links 🔗
-🌐 My website: [iamjulien.fr](https://iamjulien.fr)
+🌐 My website: [iamjulien.fr](https://iamjulien.fr)  
 💼 LinkedIn: [/in/julienravilly](https://www.linkedin.com/in/julienravilly/)  
 🍿 Letterboxd: [@iamjulien](https://letterboxd.com/iamjulien/)
 
