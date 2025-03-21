@@ -1,11 +1,11 @@
-## Hey GitHub community! 👋
+## Hello there! 👋
 I am Julien, and welcome on my GitHub page! 👨‍💻
 
-> ***Here's some infos about me:***  
-> - 🥳 Birthday: September 3rd, 2005 (19 yo)  
-> - 📌 Location: La Rochelle & Vannes (France)
-> - 🎓 Studies: Computer science at IUT La Rochelle
-> - 🤌 Passions: Cinema, sports, video games
+*Here's some infos about me:*  
+🥳 Birthday: `September 3rd, 2005 (19 yo)`  
+📌 Location: `La Rochelle & Vannes (France)`  
+🎓 Studies: `Computer science at IUT La Rochelle`  
+🤌 Passions: `Cinema, sports, video games`
 
 ### Known languages & tools 💻
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
@@ -29,18 +29,3 @@ I am Julien, and welcome on my GitHub page! 👨‍💻
 
 ### Contact me 💭
 You can reach me by sending messages on my social medias or by mail @ julien.ravilly@free.fr.
-
-<!--
-**L1nju/L1nju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
