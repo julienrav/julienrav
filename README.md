@@ -2,7 +2,7 @@
 I am Julien, and welcome on my GitHub page! 👨‍💻
 
 *Here's some infos about me:*  
-🥳 Birthday: `September 3rd, 2005 (19 yo)`  
+🥳 Birthday: `September 3rd, 2005 (20 yo)`  
 📌 Location: `La Rochelle & Vannes (France)`  
 🎓 Studies: `Computer science at IUT La Rochelle`  
 🤌 Passions: `Cinema, sports, video games`
