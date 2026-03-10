@@ -23,9 +23,9 @@ I am Julien, and welcome on my GitHub page! 👨‍💻
 <br/>
 
 ### Links 🔗
-🌐 My website: [julienrav.dev](https://julienrav.dev)  
-💼 LinkedIn: [/in/julienravilly](https://www.linkedin.com/in/julienravilly/)  
-🍿 Letterboxd: [@iamjulien](https://letterboxd.com/iamjulien/)
+🌐 Wanna go to my website (actually working on it)? Go on [**julienrav.dev**](https://julienrav.dev)!  
+💼 Let's connect together on LinkedIn: [**/in/julienravilly**](https://www.linkedin.com/in/julienravilly/)  
+🍿 Take a look at my movie tastes on Letterboxd: [**@iamjulien**](https://letterboxd.com/iamjulien/)
 
 ### Contact me 💭
 You can reach me by sending messages on my social medias or by mail @ julien.ravilly@free.fr.
