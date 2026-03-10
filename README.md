@@ -26,5 +26,5 @@ I'm really happy to see you on my GitHub page!
 ### Where to find me? 🤔
 🌐 Wanna go to my website (actually working on it)? Go on [**julienrav.dev**](https://julienrav.dev)!  
 💼 Let's connect together on LinkedIn: [**/in/julienravilly**](https://www.linkedin.com/in/julienravilly/)  
-🍿 Take a look at my movie tastes on Letterboxd: [**@iamjulien**](https://letterboxd.com/iamjulien/)
+🍿 Take a look at my movie tastes on Letterboxd: [**@iamjulien**](https://letterboxd.com/iamjulien/)  
 📧 You want to contact me? Send me an email at **julien.ravilly@free.fr**
