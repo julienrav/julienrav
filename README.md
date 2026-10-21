@@ -2,9 +2,9 @@
 I'm really happy to see you on my GitHub page!
 *Let me introduce myself...*
 
-🥳 Proudly born on **September 3rd, 2005**.  
+🥳 Born on **September 3rd, 2005** (21 yo).  
 📌 Actually living in **La Rochelle** (FR).  
-🎓 Studying at the **IUT of La Rochelle**.  
+🎓 Studying at **La Rochelle Université**.  
 🏸 Practicing for fun **badminton** weekly.  
 🤌 Absolute fan of **cinema**, **sports** and **video games**.
 
